@@ -1,1 +1,1 @@
-# ArcoLinux-config for i3
+# ArcoLinux-config
